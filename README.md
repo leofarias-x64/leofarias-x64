@@ -11,3 +11,4 @@ I am a developer focused on low-level coding and cryptography.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-001?style=for-the-badge&color=FF0000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
