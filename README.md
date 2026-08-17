@@ -7,7 +7,7 @@ I am a developer focused on low-level coding and cryptography.
 
 ## Tech Stack & Skills
 
-![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-001?style=for-the-badge&color=FF0000)
